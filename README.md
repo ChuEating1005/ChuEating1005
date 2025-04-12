@@ -13,13 +13,13 @@ Currently leading a 50-person team to organize diverse activities for the CS com
 ### 🌐 Application & Websites
 
 - **[YStoryHouse](https://github.com/ChuEating1005/2024-LINE-FRESH)**  
-  A LINE Mini App designed to bridge generations through storytelling. Integrated ChatGPT, DALL·E, and speech recognition APIs to help elders record memories and generate web comics. Backend   built with Django; deployed using Docker and Firebase.
+  A LINE Mini App designed to bridge generations through storytelling. Integrated ChatGPT, DALL·E, and speech recognition APIs to help elders record memories and generate web comics. Backend   built with Django; deployed using Docker and Firebase. 
 
 - **[VizGDP](https://github.com/ChuEating1005/VizGDP)**  
-  An interactive data visualization tool that explores global GDP trends using D3.js. Offers dynamic filtering, chart transitions, and responsive design for educational use.
+  An interactive data visualization tool that explores global GDP trends using D3.js. Offers dynamic filtering, chart transitions, and responsive design for educational use. Demo website [Link](https://chueating1005.github.io/VizGDP/index.html).
 
 - **[Band-System](https://github.com/Kent-mak/Band-System)**  
-  A web system for managing music clubs and band activities. Features include room booking, event registration, and an admin panel. Full-stack solution using React and Django.
+  A web system for managing music clubs and band activities. Features include room booking, event registration, and an admin panel. Full-stack solution using React and Django. Frontend demo website [link](https://band-system.github.io/#/home)
 
 ---
 
@@ -28,7 +28,7 @@ Currently leading a 50-person team to organize diverse activities for the CS com
 - **[Exposure Correction](https://github.com/ChuEating1005/Exposure-Correction)**  
   Enhanced image exposure using a deep learning pipeline based on the Zero-DCE framework. Introduced Laplacian pyramid decomposition and progressive refinement techniques for superior results. Built with PyTorch and CUDA.
 
-- **[Homework Helper](https://github.com/ChuEating1005/Homework-Helper)**
+- **[Homework Helper](https://github.com/ChuEating1005/Homework-Helper)**  
   A smart assistant Line Bot that answers homework questions from uploaded PDFs. Built with GPT-3.5 Turbo, LangChain, and Pinecone using a RAG (Retrieval-Augmented Generation) setup. Includes calendar/task syncing with Notion and Google Calendar.
 
 ---
