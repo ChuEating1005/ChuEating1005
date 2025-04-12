@@ -1,4 +1,5 @@
-# 👋 Hi, I'm I-Ting(Benjamin) Chu!
+<h1 align="center">Hi 👋, I'm Benjamin Chu</h1>
+<h3 align="center">A passionate CS student from NYCU 🇹🇼</h3>
 
 I'm a computer science student at NYCU 🇹🇼, passionate about AI/ML, 2D & 3D vision, image processing, networking, and web systems.
 Currently working on cool stuff like 3D inpainting using diffusion models.
