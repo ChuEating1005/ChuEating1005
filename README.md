@@ -7,7 +7,7 @@
   <a href="#🚀 &nbsp;Projects">Projects</a>
 </p>
 
-### 👨🏻‍💻 About me
+### 👨🏻‍💻 &nbsp;About me
 - Passionate about AI/ML, 2D & 3D vision, image processing, networking, and web systems.
 - Currently surveying workis about 3D inpainting and generation using diffusion models.
 
