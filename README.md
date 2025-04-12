@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Chu</h1>
 <h3 align="center">A passionate CS student from NYCU 🇹🇼</h3>
-<p align="center">
-  <a href="#👨🏻‍💻 &nbsp;About me">About me</a>&nbsp;&nbsp;•&nbsp;
-  <a href="#👥 &nbsp;Leadership">Leadership</a>&nbsp;&nbsp;•&nbsp;
-  <a href="#🎓 &nbsp;Coursework">Coursework</a>&nbsp;&nbsp;•&nbsp;
-  <a href="#🚀 &nbsp;Projects">Projects</a>
-</p>
 
 ### 👨🏻‍💻 &nbsp;About me
 - Passionate about AI/ML, 2D & 3D vision, image processing, networking, and web systems.
