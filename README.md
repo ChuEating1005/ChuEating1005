@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Benjamin Chu</h1>
 <h3 align="center">A passionate CS student from NYCU 🇹🇼</h3>
 
-I'm a computer science student at NYCU 🇹🇼, passionate about AI/ML, 2D & 3D vision, image processing, networking, and web systems.
-Currently working on cool stuff like 3D inpainting using diffusion models.
+### 👨🏻‍💻 &nbsp;About me
+- Passionate about AI/ML, 2D & 3D vision, image processing, networking, and web systems.
+- Currently surveying workis about 3D inpainting and generation using diffusion models.
 
-## 👥 Leadership
+### 👥 &nbsp;Leadership
 
-**President, NYCU Computer Science Student Association**  
-Currently leading a 50-person team to organize diverse activities for the CS community — from company visits and alumni sharing sessions to tech workshops and entertainment events. I also serve as a bridge between students and faculty, advocating for student needs and fostering cross-grade connections.
+- **President, NYCU Computer Science Student Association**  
+  Currently leading a 50-person team to organize diverse activities for the CS community — from company visits and alumni sharing sessions to tech workshops and entertainment events. I also serve as a bridge between students and faculty, advocating for student needs and fostering cross-grade connections.
 
-## 🚀 Projects
+- **Co-leader of Development Group, 2024 Meichu Hackathon**
+  Responsible for the Meichu Hackathon signup [website](https://2024.meichuhackathon.org/), a Line bot for company activities on the event day, and development group project.
+### 🚀 &nbsp;Projects
 
-### 🌐 Application & Websites
+#### 🌐 &nbsp;Application & Websites
 
 - **[YStoryHouse](https://github.com/ChuEating1005/2024-LINE-FRESH)**  
   A LINE Mini App designed to bridge generations through storytelling. Integrated ChatGPT, DALL·E, and speech recognition APIs to help elders record memories and generate web comics. Backend   built with Django; deployed using Docker and Firebase. 
@@ -24,7 +27,7 @@ Currently leading a 50-person team to organize diverse activities for the CS com
 
 ---
 
-### 🤖 AI / ML
+#### 🤖 &nbsp;AI / ML
 
 - **[Exposure Correction](https://github.com/ChuEating1005/Exposure-Correction)**  
   Enhanced image exposure using a deep learning pipeline based on the Zero-DCE framework. Introduced Laplacian pyramid decomposition and progressive refinement techniques for superior results. Built with PyTorch and CUDA.
@@ -34,7 +37,7 @@ Currently leading a 50-person team to organize diverse activities for the CS com
 
 ---
 
-### 🔧 Others
+#### 🔧 &nbsp;Others
 
 - **[Text-based Dungeon Game](https://github.com/ChuEating1005/DS-OOP)**  
   A C++ adventure game developed using object-oriented design principles. Features include player stats, dungeon map, turn-based combat, inventory management.
