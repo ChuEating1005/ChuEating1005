@@ -16,7 +16,7 @@
 ### 🎓 &nbsp;Coursework
 A selection of core and elective CS courses I’ve completed, along with related projects and GitHub repos.  
 > [!NOTE]
-> 📄 View full course list → [Link](https://github.com/ChuEating1005/Coursework)
+> 📄 View full course list → [Link](https://github.com/ChuEating1005/NYCU-Coursework)
 
 ### 🚀 &nbsp;Projects
 
