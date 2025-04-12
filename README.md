@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Benjamin Chu</h1>
 <h3 align="center">A passionate CS student from NYCU 🇹🇼</h3>
 
-### 👨🏻‍💻 &nbsp;About me
+## 👨🏻‍💻 &nbsp;About me
 - Passionate about AI/ML, 2D & 3D vision, image processing, networking, and web systems.
 - Currently surveying workis about 3D inpainting and generation using diffusion models.
 
-### 👥 &nbsp;Leadership
+## 👥 &nbsp;Leadership
 
 - **President, 2024-2025 NYCU Computer Science Student Association**  
   Leading a 50-person team to organize diverse activities for the CS community — from company visits and alumni sharing sessions to tech workshops and entertainment events. I also serve as a bridge between students and faculty, advocating for student needs and fostering cross-grade connections.
@@ -13,12 +13,12 @@
 - **Co-leader of Development Group, 2024 Meichu Hackathon**  
   Responsible for the Meichu Hackathon signup [website](https://2024.meichuhackathon.org/), a Line bot for company activities on the event day, and development group project.
 
-### 🎓 &nbsp;Coursework
+## 🎓 &nbsp;Coursework
 A selection of core and elective CS courses I’ve completed, along with related projects and GitHub repos.  
 > [!NOTE]
 > **📄 View full course list → [Link](https://github.com/ChuEating1005/NYCU-Coursework)**
 
-### 🚀 &nbsp;Projects
+## 🚀 &nbsp;Projects
 
 #### 🌐 &nbsp;Application & Websites
 
